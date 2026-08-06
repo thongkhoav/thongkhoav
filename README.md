@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vo Thong Khoa
+# Hi 👋, I'm Vo Thong Khoa from Viet Nam 🇻🇳
 
 ### Software Engineer
 
@@ -6,16 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=thongkhoav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thongkhoav" alt="GitHub Trophies" />
-  </a> 
-</p>
-
-- 🔭 I'm currently working on **Next.JS, NestJS, FastAPI, AWS, Postgres and Codex as AI Vibecoder**
-- 👯 I'm looking to collaborate on **landing page, part time tech project**
-- 📫 How to reach me **thongkhoa2002@gmail.com**
-- ⚡ Fun fact **Reader, badminton player and transparent person**
+- 🔭 Currently building scalable apps with **Next.js, NestJS, FastAPI, PostgreSQL, AWS & AI Tools (Codex)**
+- 👯 Open for collaboration on **Landing Pages & Part-time Tech Projects**
+- 📫 Reach out to me via **[thongkhoa2002@gmail.com](mailto:thongkhoa2002@gmail.com)**
+- ⚡ Fun facts: **Avid reader, badminton player, and direct & transparent in communication**
 - 📄 Know about my experiences **[Resume / Portfolio](https://drive.google.com/file/d/1d9KYrL7AS741sCLEZjRDkwpDUB2Tzehy/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
