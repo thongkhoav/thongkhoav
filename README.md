@@ -2,15 +2,25 @@
 
 ### Software Engineer
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=thongkhoav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="left">
+  <a href="https://portfolio-i1a0ysk4t-vo-thong-khoas-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/khoa-vo-thong-38a68329b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thongkhoav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+- 🌐 Explore my works & projects at **[My Live Portfolio](https://portfolio-i1a0ysk4t-vo-thong-khoas-projects.vercel.app/)**
 - 🔭 Currently building scalable apps with **Next.js, NestJS, FastAPI, PostgreSQL, AWS & AI Tools (Codex)**
 - 👯 Open for collaboration on **Landing Pages & Part-time Tech Projects**
 - 📫 Reach out to me via **[thongkhoa2002@gmail.com](mailto:thongkhoa2002@gmail.com)**
 - ⚡ Fun facts: **Avid reader, badminton player, and direct & transparent in communication**
-- 📄 Know about my experiences **[Resume / Portfolio](https://drive.google.com/file/d/1d9KYrL7AS741sCLEZjRDkwpDUB2Tzehy/view?usp=sharing)**
+- 📄 View my detailed experiences **[My Resume / CV](https://drive.google.com/file/d/1d9KYrL7AS741sCLEZjRDkwpDUB2Tzehy/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +36,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,docker,fastapi,figma,firebase,git,graphql,java,js,jenkins,kafka,kubernetes,linux,mongodb,nestjs,nextjs,nginx,nodejs,postgres,postman,py,rabbitmq,react,redis,sass,tailwind,ts" alt="tech-stack" />
 </p>
 
