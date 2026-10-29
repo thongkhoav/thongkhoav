@@ -1,9 +1,12 @@
-# Hi 👋, I'm Vo Thong Khoa from Viet Nam 🇻🇳
+# Hi, I'm Vo Thong Khoa 👋
 
-### Software Engineer
+### Full-stack developer · Ho Chi Minh City, Viet Nam
+
+I build web and mobile apps and integrate AI chatbots into them, from first prototype to production
+on AWS, Vercel or Supabase.
 
 <p align="left">
-  <a href="https://portfolio-i1a0ysk4t-vo-thong-khoas-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-tau-sable-y9ezidczsy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/khoa-vo-thong-38a68329b/" target="_blank">
@@ -11,43 +14,20 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thongkhoav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## Featured projects
 
-- 🌐 Explore my works & projects at **[My Live Portfolio](https://portfolio-i1a0ysk4t-vo-thong-khoas-projects.vercel.app/)**
-- 🔭 Currently building scalable apps with **Next.js, NestJS, FastAPI, PostgreSQL, AWS & AI Tools (Codex)**
-- 👯 Open for collaboration on **Landing Pages & Part-time Tech Projects**
-- 📫 Reach out to me via **[thongkhoa2002@gmail.com](mailto:thongkhoa2002@gmail.com)**
-- ⚡ Fun facts: **Avid reader, badminton player, and direct & transparent in communication**
-- 📄 View my detailed experiences **[My Resume / CV](https://drive.google.com/file/d/1d9KYrL7AS741sCLEZjRDkwpDUB2Tzehy/view?usp=sharing)**
+- **[Enterprise AI Assistant](https://github.com/thongkhoav/enterprise-ai-assistant)**: RAG chatbot
+  that answers from your documents, cites the exact passage and PDF page, and says "I don't know"
+  when the documents don't cover the question. FastAPI, LangGraph, Chroma, React.
+- **Task Rooms ([API](https://github.com/thongkhoav/be_task_nestjs) ·
+  [web](https://github.com/thongkhoav/fe_task_nextjs))**: real-time team task board with
+  drag-and-drop tasks, chat, push notifications and deadline reminders. NestJS, Next.js,
+  PostgreSQL, Redis, Socket.io, CI/CD to AWS.
+- **[Next.js auth template](https://github.com/thongkhoav/nextjs_template)**: JWT access/refresh
+  with automatic refresh, protected routes and role-based access control.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/thongkhoav" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/khoa-vo-thong-38a68329b/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/thongkhoavo/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,docker,fastapi,figma,firebase,git,graphql,java,js,jenkins,kafka,kubernetes,linux,mongodb,nestjs,nextjs,nginx,nodejs,postgres,postman,py,rabbitmq,react,redis,sass,tailwind,ts" alt="tech-stack" />
-</p>
+## What I work with
 
 <p align="left">
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs?username=thongkhoav&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=thongkhoav&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thongkhoav" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,py,fastapi,postgres,supabase,redis,docker,aws,vercel,firebase,tailwind" alt="Tech stack" />
 </p>
