@@ -6,7 +6,7 @@ I build web and mobile apps and integrate AI chatbots into them, from first prot
 on AWS, Vercel or Supabase.
 
 <p align="left">
-  <a href="https://portfolio-tau-sable-y9ezidczsy.vercel.app/" target="_blank">
+  <a href="https://www.khoariodev.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/khoa-vo-thong-38a68329b/" target="_blank">
